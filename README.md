@@ -1,6 +1,11 @@
 # Note-Taker-App
 
 ## Links
+https://github.com/jhmitchell10/Note-Taker-App
+
+<video controls src="README.md - class-hw-file - Visual Studio Code 2024-09-25 22-22-16.mp4" title="Title"></video>
+(was not able to deploy page)
+
 
 ## Your Task
 
